@@ -32,6 +32,11 @@ When you're ready, run:
 ```bash
 npm run reset-project
 ```
+
+## Demo video
+https://github.com/user-attachments/assets/e4e31691-2e32-4235-91ce-b2461e06594c
+
+
 ## Things I would improve
 
 - Implemente a debounced pokemon search functionality maybe using lodash for the debaounced callback
