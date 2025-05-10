@@ -36,10 +36,12 @@ npm run reset-project
 ## Demo video
 https://github.com/user-attachments/assets/e4e31691-2e32-4235-91ce-b2461e06594c
 
-
 ## Things I would improve
 
 - Implemente a debounced pokemon search functionality maybe using lodash for the debaounced callback
 - Impmement some fancy animations for the "on-demand" pokemon api data fetching
 - Implement some fancy anmations on screen tranitions and elements showing in the details page
 - Implement a lazy loading function to load all pokemons data, store it locally and then improve the searchbox by suggesting pokemon names, something like an autocomplete feature, this would also allow to provide a user a list of pokemons user already searched in the past
+
+## Other Information
+- I used Copilot Pro to help me to code faster. I presume that 60% of the code produced was created and improved by using it, it was mainly used to create the RTK API request logic and some data transformation to save API requests like bringing the pokemon details together when we invoke the main pokemon list.
